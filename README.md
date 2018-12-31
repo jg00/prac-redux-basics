@@ -1,6 +1,6 @@
 ## Simple Counter Using React and Redux
 
-Practice using Redux and application level state.
+Practice using Redux and application level state.  Set up Redux store, reducers, and dispatch actions.
 
 :coffee: **_React_**
 <br>
